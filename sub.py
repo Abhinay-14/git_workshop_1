@@ -1,2 +1,2 @@
 def sub(a,b):
-    print (a-b)
+    print ("Difference is ",a-b)
